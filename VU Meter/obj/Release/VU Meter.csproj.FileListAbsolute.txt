@@ -1,0 +1,12 @@
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Release\VU Meter.exe.config
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Release\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Release\VU Meter.pdb
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Release\AGauge.dll
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Release\CoreAudioApi.dll
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU_Meter.Form1.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU_Meter.Options.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU_Meter.Properties.Resources.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU Meter.csproj.GenerateResource.Cache
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Release\VU Meter.pdb

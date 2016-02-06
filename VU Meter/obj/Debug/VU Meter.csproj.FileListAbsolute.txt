@@ -1,0 +1,35 @@
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.pdb
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Form1.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Properties.Resources.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU Meter.csproj.GenerateResource.Cache
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU Meter.pdb
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.exe.config
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Options.resources
+C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.About.resources
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.exe.config
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU Meter.pdb
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.exe
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\bin\Debug\VU Meter.pdb
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.About.resources
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Form1.resources
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Options.resources
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\VU_Meter.Properties.Resources.resources
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\ResGen.read.1.tlog
+C:\Users\ktburns\Documents\Visual Studio 2010\Projects\VU Meter\VU Meter\obj\Debug\ResGen.write.1.tlog
+C:\Users\xz\Desktop\VU Meter\bin\Debug\VU Meter.exe.config
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU Meter.exe
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU Meter.pdb
+C:\Users\xz\Desktop\VU Meter\bin\Debug\VU Meter.exe
+C:\Users\xz\Desktop\VU Meter\bin\Debug\VU Meter.pdb
+C:\Users\xz\Desktop\VU Meter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU_Meter.About.resources
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU_Meter.Form1.resources
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU_Meter.Options.resources
+C:\Users\xz\Desktop\VU Meter\obj\Debug\VU_Meter.Properties.Resources.resources
+C:\Users\xz\Desktop\VU Meter\obj\Debug\ResGen.read.1.tlog
+C:\Users\xz\Desktop\VU Meter\obj\Debug\ResGen.write.1.tlog

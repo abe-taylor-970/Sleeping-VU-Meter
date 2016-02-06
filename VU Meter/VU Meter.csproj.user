@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>/|\\192.168.15.13\Web\VU_Meter\|C:\Users\ktburns\Documents\Visual Studio 2008\Projects\VU Meter\Publish\|\\192.168.15.13\web\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://windowsvumeter.sourceforge.net/|http://burnsy.no-ip.info/VU_Meter/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
